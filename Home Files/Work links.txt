@@ -1,0 +1,16 @@
+
+1. Xem chấm công, đi ca nào:
+\\172.25.216.146\d\77. LIÊN QUAN VĂN PHÒNG\1. CHẤM CÔNG\2024
+
+
+2.
+\\172.25.215.31\Soumu_Data\0.1 BANG CHAM CONG THOI VU MOI NGAY
+  - Search N/A cột [vào] + [ra] để lấy dữ liệu người không đi làm
+  - Search cột [MPB]: nhà máy 1 là 2511, 2512 - nhà máy 2 là 2516,2517
+  - Sau khi lấy được tổng số người thì cập nhật vào sheet báo cáo bự
+
+3.
+git add .
+git commit -m "noidung_commit"
+git push
+
