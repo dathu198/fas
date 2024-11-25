@@ -1,3 +1,6 @@
+git add .
+git commit -m "noidung_commit"
+git push
 
 1. Xem chấm công, đi ca nào:
 \\172.25.216.146\d\77. LIÊN QUAN VĂN PHÒNG\1. CHẤM CÔNG\2024
@@ -9,8 +12,19 @@
   - Search cột [MPB]: nhà máy 1 là 2511, 2512 - nhà máy 2 là 2516,2517
   - Sau khi lấy được tổng số người thì cập nhật vào sheet báo cáo bự
 
-3.
-git add .
-git commit -m "noidung_commit"
-git push
+3. Chuyền đưứng: 
+    - F1: 30, 31, 46, 48, 51, C1-->C37
+    - F2: C1, C3, C4, C6, (C5 chị Nguyên bắt buộc làm)
+
+
+
+
+
+
+
+
+
+
+
+
 
